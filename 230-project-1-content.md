@@ -18,11 +18,11 @@ Most sounds present in the game will be used for input feedback to the user, suc
 
 ## 6. Gameplay
 Players will be able to
-  *Build factories and other buildings
-  *Trade or ally with other nations
-  *Form defensive or offensive coalitions against other bigger and stronger nations
-  *Muster troops for your army
-  *Declare war and wage espionage on other nations!
+   *Build factories and other buildings
+   *Trade or ally with other nations
+   *Form defensive or offensive coalitions against other bigger and stronger nations
+   *Muster troops for your army
+   *Declare war and wage espionage on other nations!
   
 The player will use a keyboard and mouse to play the game. Arrow keys will be used to translate the camera, as will the mouse. Mouse buttons will be used for most navigation.
 
@@ -30,5 +30,5 @@ A manual will be provided for playing the game for newcomers, which will describ
 
 In order to beat the game, the player will need to have an understanding of micromanagement and foreign policy in order to restore America to its former might. Every country will have its own specific attributes for the player to learn or exploit.
 
-##7. Developer Information
+## 7. Developer Information
 Jarrett Briody / Game Design and Development / International Relations / Sophomore | Interests in programming, game physics, and game design
