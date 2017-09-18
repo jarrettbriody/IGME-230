@@ -1,22 +1,22 @@
 # Post-America: Conquest
 
-##1. High Concept
+## 1. High Concept
 *Post-America: Conquest* takes place after the United States of America is balkanized in the mid 2050s following a devastating war with a world coalition. In this real time strategy game, you will play as one of the former American countries and attempt to redraw your borders for power and glory through diplomacy or war.
 
-##2. Genre
+## 2. Genre
 Real Time Strategy
 
-##3. Platform
+## 3. Platform
 Desktop
 
-##4. Story
+## 4. Story
 Following the widespread destruction of America from a third world war, several countries of ex-united states formed along cultural lines due to their lack of support for the failing federal government. Six factions now exist, made up of the Pacific States, The Mid-Western Alliance, Texas, New England, The Dixie States, and the United States of America. With the states and international institutions being weaker than ever before, war between ex-American countries is becoming frequent in order to grow more powerful and project that power on the others. Every country wants to extend their ideologies to the rest of the states, and reform their former empire along their own cultural values. You - the player - will lead your chosen nation to victory, and reunite America under your banner.
 
-##5. Aesthetics
+## 5. Aesthetics
 *Post-America: Conquest* will have a simple colored political map, showing the territory owned by each nation. Menus will have gritty, wood-like textures which show the properties of the targeted nation.
 Most sounds present in the game will be used for input feedback to the user, such as clicking on an interface or moving troops to another province.
 
-##6. Gameplay
+## 6. Gameplay
 Players will be able to
   *Build factories and other buildings
   *Trade or ally with other nations
