@@ -18,11 +18,11 @@ Most sounds present in the game will be used for input feedback to the user, suc
 
 ## 6. Gameplay
 Players will be able to
-   *Build factories and other buildings
-   *Trade or ally with other nations
-   *Form defensive or offensive coalitions against other bigger and stronger nations
-   *Muster troops for your army
-   *Declare war and wage espionage on other nations!
+  * Build factories and other buildings
+  * Trade or ally with other nations
+  * Form defensive or offensive coalitions against other bigger and stronger nations
+  * Muster troops for your army
+  * Declare war and wage espionage on other nations!
   
 The player will use a keyboard and mouse to play the game. Arrow keys will be used to translate the camera, as will the mouse. Mouse buttons will be used for most navigation.
 
